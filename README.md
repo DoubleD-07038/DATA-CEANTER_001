@@ -22,3 +22,13 @@
 - WATCH: https://www.datacenter-watch.com/
 - GOYANG: https://www.goyang.re.kr/board/free/photo/a78997_202605191912430.pdf
 - SDS: https://www.samsungsds.com/kr/news/press/index.html
+
+## 2026-10-12 source-backed updates
+
+| Facility | Observed milestone | Source | Unverified |
+|---|---|---|---|
+| LG Uplus Paju AIDC | Construction site ~20% progress as of 2026-06-05; 200MW power supply; 150,000 sqm total floor area | https://www.lguplus.com/biz/insight/trend/919 | Parcel coordinates, permit documents, architect/contractor |
+| Haenam National AI Computing Center | Groundbreaking ceremony on 2026-08-03; completion target 2028 | https://www.samsungsds.com/kr/news/sds-260803.html | Detailed building design and power supply |
+| Donghae GS AI DC | Building permit issued 2026-10-01 for first phase; 100MW project, 68,000 sqm site, 35,000 sqm gross floor area | https://www.yna.co.kr/view/AKR20261002076200062 | Start of actual construction, architect/contractor |
+
+**Data-quality rules**: An announced target date must never be interpreted as actual completion. Actual construction does not imply a verified permit-document record. Power supply, IT load, phase power, and total campus plan are distinct. Existing sample pins represent approximate districts only. Data should not be used for permit due diligence without primary records.
